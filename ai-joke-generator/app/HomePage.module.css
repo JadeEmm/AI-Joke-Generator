@@ -1,0 +1,19 @@
+/* app/HomePage.module.css */
+.homeContainer {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .homeButton {
+    background-color: #ff4081;
+    border-radius: 50px;
+    padding: 15px 30px;
+    font-size: 18px;
+    margin-top: 20px;
+    transition: background-color 0.3s;
+  }
+  
+  .homeButton:hover {
+    background-color: #f50057;
+  }
+  
